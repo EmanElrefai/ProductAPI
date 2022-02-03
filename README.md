@@ -9,6 +9,14 @@ In this app:
 - Applied the concept of cashing. 
 - Wrote the unit test cases and genetated the code average.
 
+What makes this app unique? 
+
+- Created it and implemented collection view using swiftUI.  
+- Applied animation between product list page and product details page.
+- Used combine library 
+- Open to anyone to learn the concept of cashing (How make your app interact when internet connection is on or off)
+
+
 ## The App 2 main pages:
 [1] Home Product page.
 
