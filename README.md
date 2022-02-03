@@ -17,10 +17,12 @@ What makes this app unique?
 - Open to anyone to learn the concept of cashing (How make your app interact when internet connection is on or off)
 
 
-## The App 2 main pages:
+## The App 3 main pages:
 [1] Home Product page.
 
 [2] Product Details page.
+
+[3] Error page when there is no internet connection.
 
 
 ## Home Product page
@@ -31,6 +33,11 @@ What makes this app unique?
 ## Product Details page
 <p align="left">
   <img src="detail.png" width="250" height="500">
+</p>
+
+## Error page when there is no internet connection
+<p align="left">
+  <img src="offline.png" width="250" height="500">
 </p>
 
 
