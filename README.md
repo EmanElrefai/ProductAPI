@@ -1,4 +1,4 @@
-# Thirdwayv-iOS-Collection-View-Challenge
+# Product API Project
 
 In this app: 
 
